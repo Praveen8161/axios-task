@@ -21,4 +21,4 @@
 # To Run
 `npm run dev`
 
-- [Live Site] (https://bespoke-trifle-4480cf.netlify.app)
+- [Live Site](https://bespoke-trifle-4480cf.netlify.app)
