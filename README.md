@@ -5,7 +5,7 @@
 - The modification will be updated with the server in Real Time
 
 ## Libraries Used
-- React + Vite
+- React + Vite 
 - Tailwind Css
 
 ## Working
